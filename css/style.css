@@ -2379,7 +2379,7 @@ header.absolute {
   z-index: 100;
   margin: -50px 0 0 -50px;
   background: #b4e2fd;
-  background: url(../images/01.SME.png) center center no-repeat;
+  background: url(../images/icon.png) center center no-repeat;
   animation: preload 1s linear infinite alternate;
   -webkit-animation-name: bounceIn;
   animation-name: bounceIn;
